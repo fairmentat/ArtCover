@@ -29,5 +29,6 @@ class DetailVC: UIViewController {
     }
     
 //test complete
+    //release
 
 }
